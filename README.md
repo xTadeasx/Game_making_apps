@@ -18,3 +18,8 @@ Software used:
   
 Music:
   -https://artlist.io
+
+https://www.youtube.com/watch?v=ySqLAayNmaM
+  -ElevenLabs (Sound Effects): https://elevenlabs.io/app/voice-lab
+  -Ludus AI (Models, Enviro, VFX, Animation, Logic):   / discord  
+  -Suno AI (Music) : suno.com
